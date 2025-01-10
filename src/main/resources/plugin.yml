@@ -1,0 +1,6 @@
+name: testplugin
+version: '1.0-SNAPSHOT'
+main: dev.h313na.testplugin.Testplugin
+api-version: '1.21'
+authors: [ PhilippCMD ]
+description: tools to Manage your server
